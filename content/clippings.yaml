@@ -1,0 +1,21 @@
+
+  - id: "f61d-624c-c4bc"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      footer_text: "A business services company."
+      logo: "https://media-resolver.api.zesty.io/resolve/3-8dec9ee-efqrr/getimage/?w=200&h=200&type=fit"
+      site_name: "Acme Services"
